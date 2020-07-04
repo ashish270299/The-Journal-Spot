@@ -1,7 +1,6 @@
 {
   "name": "ejs-challenge",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,12 +10,21 @@
   "engines": {
     "node": "12.13.0"
   },
-
   "dependencies": {
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
     "express": "^4.16.3",
-    "lodash": "^4.17.13",
-    "mongoose": "^5.7.5"
-  }
+    "lodash": "^4.17.15",
+    "mongoose": "^5.9.21"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashish270299/The-Journal-Spot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ashish270299/The-Journal-Spot/issues"
+  },
+  "homepage": "https://github.com/ashish270299/The-Journal-Spot#readme",
+  "description": ""
 }
