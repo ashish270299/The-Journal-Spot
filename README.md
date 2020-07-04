@@ -3,6 +3,9 @@ An e-journal website where you can record your daily stuff from anywhere and any
 
 
 The code of the website is in the repo. But we need to clone via HerokuCLI as it is deployed there.
+
+
+
 Website Link : https://thejournalspot.herokuapp.com/
 
 
